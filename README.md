@@ -3,4 +3,4 @@ In this project, your Pacman agent will find paths through his maze world, both 
 
 Files edited by me: search.py, searchAgents.py  
 
-Custom code follows: "*** YOUR CODE HERE ***"
+Custom code follows: "*** YOUR CODE HERE ***" and further details in project_1.pdf
